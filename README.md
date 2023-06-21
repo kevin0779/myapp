@@ -1,2 +1,2 @@
 # myapp
-golang gin
+golang gin框架
